@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 im partner B
+=======
+hello chem-169, this is for exercise 4
+>>>>>>> 31f8d14873070bf3468810f54a3e3d68ebfa1352
 bye
 
 This is a conflicting line from local.
