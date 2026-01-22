@@ -1,2 +1,4 @@
 im partner B
 bye
+
+This is a conflicting line from local.
